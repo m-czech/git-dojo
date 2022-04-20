@@ -1,6 +1,7 @@
 void introduce()
 {
     Console.WriteLine("Hello, I'm Gittie");
+    Console.WriteLine(":)");
 }
 
 void add(int a, int b) {
