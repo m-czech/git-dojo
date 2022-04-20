@@ -14,3 +14,7 @@ void joke()
     Console.WriteLine("Knock knock")
 }
 
+void shout()
+{
+    Console.WriteLine("Aaaargh")
+}
