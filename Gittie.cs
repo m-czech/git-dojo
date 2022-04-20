@@ -6,7 +6,7 @@ void introduce()
 }
 
 void add(int a, int b) {
-	int c = a + b;
+	int d = a + b;
 }
 
 void joke()
